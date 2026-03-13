@@ -30,7 +30,7 @@ This project includes a **React frontend** and a **Python backend** that process
 - FastAPI / Flask
 
 ### AI / Analysis
-- LLM based code review (OpenAI / Gemini / HuggingFace compatible)
+- LLM based code review (OpenAI)
 
 ---
 
